@@ -1,0 +1,14 @@
+This is a small project in which 3 person can write their food and exercise information by creating a text and maintain their health
+# This is a kind of Health Management System which consists data of three persons harry,rohan,hammad 
+# Basically in this program these 3 persons can feed their respective info related to their food or exercise 
+# when they retrieve their info it will show with the time they Written it
+
+# first- a person choose whether to log or retrive info
+#   if they choose log choose the person next 
+#   and then choose to write exercise info or food info 
+
+#   if they choose to retrieve, choose the person next
+#   and then choose to get food info or exercise data
+
+
+#This program run only once either you enter wrong input or right input
