@@ -1,0 +1,5 @@
+It is a project, I named it Flight Management System 
+Which contains fare and distance between 2 vertex or can say airport
+initially it contains 9 airport/vertex numbered from 0 to 8
+The program can add, remove any vertex and can also change distance and fare between any two vertex
+and can also show the shortest path
