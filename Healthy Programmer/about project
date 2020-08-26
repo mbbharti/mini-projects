@@ -5,3 +5,5 @@ In this program after every 40 minuts the alaram rang and remind programmer to d
 and after every 50 minuts to wast their eyes
 and after every 60 minuts to strech their body
 and to stop it they have to enter the required input
+
+This programs recors all the task with the time in created file programmer.txt
