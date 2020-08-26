@@ -1,0 +1,8 @@
+it is a 2048 game with 4x4 grid
+move up using w or W
+move down using s or S
+move left using a or A
+move right using d or D
+Score variable is also there which updates the scores after each input
+
+run the code 2048_game.py which is the main file
