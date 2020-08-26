@@ -6,3 +6,4 @@ move right using d or D
 Score variable is also there which updates the scores after each input
 
 run the code 2048_game.py which is the main file
+there is also another file logic_2048 which cotains all the logic functions
