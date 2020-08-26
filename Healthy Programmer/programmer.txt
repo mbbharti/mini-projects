@@ -1,0 +1,15 @@
+ Drank water at : 2020-08-27 01:26:50.307332 
+ Drank water at : 2020-08-27 01:26:57.817887 
+ Eyes relaxed at : 2020-08-27 01:27:06.095596 
+ Drank water at : 2020-08-27 01:27:13.939952 
+ Body streched at : 2020-08-27 01:27:19.160733 
+ Drank water at : 2020-08-27 01:27:22.268111 
+ Eyes relaxed at : 2020-08-27 01:27:26.342503 
+ Drank water at : 2020-08-27 01:28:38.365734 
+ Drank water at : 2020-08-27 01:28:44.825527 
+ Eyes relaxed at : 2020-08-27 01:28:51.762348 
+ Drank water at : 2020-08-27 01:28:54.923489 
+ Body streched at : 2020-08-27 01:29:14.414921 
+ Drank water at : 2020-08-27 01:29:17.276356 
+ Drank water at : 2020-08-27 01:36:15.022892 
+ Drank water at : 2020-08-27 01:37:56.638047 
