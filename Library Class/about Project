@@ -1,0 +1,11 @@
+It is a library class which can further be used as library manegement system by connecting with Database
+Through this we can maintain the Library by creating object and security key of mutiple users
+about the code:
+    this project contains
+    Add Book
+    Delete Book
+    Lend Book
+    Return Book
+    functions and the display list of available book funtion 
+    and, also the display dictionary function which can be used by the adminstration to check which person issued which book 
+    
