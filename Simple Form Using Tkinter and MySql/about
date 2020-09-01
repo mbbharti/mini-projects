@@ -1,0 +1,3 @@
+in this form which i have created, a person can fill their details which will be stored in database.
+it is in python and the gui i have is tkinter and database mysql
+if someone wants to use the form they need to change the database details as per their created database if want to make database of the form 
