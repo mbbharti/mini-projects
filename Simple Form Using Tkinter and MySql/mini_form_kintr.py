@@ -4,15 +4,18 @@ import mysql.connector
 mydb=mysql.connector.connect(host='localhost',user='root',password='****',database='db1')
 cur=mydb.cursor()
 
-
-
-
+# if you didnot tick the check button it will not submit
 def getval():
-	tabl="INSERT INTO form(name,email,gender,college,place,pin) VALUES(%s,%s,%s,%s,%s,%s)"
-	dat=(nameval.get(),emailval.get(),genderval.get(),collegeval.get(),placeval.get(),pinval.get())
-	cur.execute(tabl,dat)
-	mydb.commit()
-	print("Working fine..")
+	if submitt.get() ==1:
+
+		tabl="INSERT INTO form(name,email,gender,college,place,pin) VALUES(%s,%s,%s,%s,%s,%s)"
+		dat=(nameval.get(),emailval.get(),genderval.get(),collegeval.get(),placeval.get(),pinval.get())
+		cur.execute(tabl,dat)
+		mydb.commit()
+		print("Working fine..")
+	else:
+		print("please tick Checkbutton..")
+
 
 root=Tk()
 root.title("Mini Form")
