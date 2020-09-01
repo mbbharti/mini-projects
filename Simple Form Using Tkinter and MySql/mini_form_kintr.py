@@ -1,7 +1,7 @@
 from tkinter import *
 import mysql.connector
 
-mydb=mysql.connector.connect(host='localhost',user='root',password='1234',database='db1')
+mydb=mysql.connector.connect(host='localhost',user='root',password='****',database='db1')
 cur=mydb.cursor()
 
 
